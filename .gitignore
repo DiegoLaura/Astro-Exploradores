@@ -7,6 +7,7 @@ npm-debug.log*
 
 # Dependencias generadas por npm
 package-lock.json
+package.json
 
 # Directorio donde se instalan las dependencias (puedes comentar esto si prefieres mantenerlo en el repositorio)
 # /node_modules/
